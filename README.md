@@ -1,2 +1,5 @@
 # coords
-A tool for generating 2D Platformer Platforms in C# (now also available in C++!)
+Tools for coordinate generation.
+Coords is currently available for:
+- C#
+- C++
